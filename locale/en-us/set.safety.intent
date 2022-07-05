@@ -1,0 +1,5 @@
+turn safety {onoff}
+turn the safety {onoff}
+set safety {onoff}
+flip safety {onoff}
+safety {onoff}

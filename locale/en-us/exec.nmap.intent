@@ -1,0 +1,3 @@
+(exec | run | execute | ) nmap (against {target} | ) ((and |) save (output | ) ( to {path} | ) | )
+(exec | run | execute | ) port scan (against {target} | ) ((and |) save (output | ) ( to {path} | ) | )
+(exec | run | execute | ) {scantype} scan (against {target} | ) ((and | ) save (output | ) ( to {path} | ) | )

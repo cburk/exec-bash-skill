@@ -1,2 +1,3 @@
-Run script
-Execute script
+(exec | run | execute) {script} (against {target} | ) (save (output | ) ( to {path} | ) | )
+(exec | run | execute) {script} (against {target} | ) (save (output | ) ( to {path} | ) | )
+scan {target} with {script}
